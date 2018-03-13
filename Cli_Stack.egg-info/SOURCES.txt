@@ -1,0 +1,7 @@
+README.md
+setup.py
+Cli_Stack.egg-info/PKG-INFO
+Cli_Stack.egg-info/SOURCES.txt
+Cli_Stack.egg-info/dependency_links.txt
+Cli_Stack.egg-info/requires.txt
+Cli_Stack.egg-info/top_level.txt

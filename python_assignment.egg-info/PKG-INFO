@@ -1,0 +1,24 @@
+Metadata-Version: 1.0
+Name: python-assignment
+Version: 0.1.0
+Summary: Python Assignment from Lei Wang
+Home-page: UNKNOWN
+Author: Lei Wang
+Author-email: wanglei.okay@gmail.com
+License: UNKNOWN
+Description-Content-Type: UNKNOWN
+Description: # Python Assignment Stack Cli From Lei WANG
+        
+        Stack Cli use StackExchange Apr to retrive StackOverFlow's data by time and id and calculate the results:
+        
+          - Retrive the StackOverflow answer data for a given date/time range from the StackExchange Api
+          - Retrive the comment data for a given set of answers 
+          - For a given data/time range calculates 
+          --the totalnumber of accpeted answers
+          --the average score for all the accepted answers
+          --the averange answer count per question 
+          --the comment count for each of the 10 answers with the highest score
+        
+        
+Keywords: stackexchange
+Platform: UNKNOWN

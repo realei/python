@@ -1,0 +1,11 @@
+README.md
+setup.py
+python_assignment.egg-info/PKG-INFO
+python_assignment.egg-info/SOURCES.txt
+python_assignment.egg-info/dependency_links.txt
+python_assignment.egg-info/requires.txt
+python_assignment.egg-info/top_level.txt
+scripts/__init__.py
+scripts/cli_stackOF.py
+stackexchange/__init__.py
+stackexchange/stackapi.py
